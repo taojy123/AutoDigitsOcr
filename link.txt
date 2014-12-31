@@ -1,0 +1,2 @@
+http://code.google.com/p/tesseract-ocr
+http://code.google.com/p/tesseract-ocr/downloads/detail?name=tesseract-ocr-3.01-win32-portable.zip
